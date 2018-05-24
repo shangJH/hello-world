@@ -1,5 +1,5 @@
 # hello-world
-repository learning - first study
-test Commit
-local respository
-intellij IDEA test
+* repository learning - first study
+* test Commit
+* local respository
+* intellij IDEA test
